@@ -10,6 +10,7 @@ PALETTE) and renders a PNG file of the MAP.
 git clone https://github.com/mattijv/tic-80-mapify
 cd tic-80-mapify
 pip3 install -r requirements.txt
+```
 
 ## Usage
 
