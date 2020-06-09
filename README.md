@@ -1,8 +1,9 @@
 # TIC-80 Mapify
 
 This is a Python (3) script that will read the data sections
-of a .lua cart, extract the relevant sections (MAP, TILES and
-PALETTE) and renders a PNG file of the MAP.
+of a [TIC-80](https://tic.computer/) .lua cart, extracts the
+relevant data sections (MAP, TILES and PALETTE) and renders
+a PNG file of the MAP.
 
 ## Install
 
